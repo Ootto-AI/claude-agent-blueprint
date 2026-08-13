@@ -60,3 +60,7 @@ The content-growth version of exactly this (research → script → render → p
 ---
 
 *Built by [@jayantcreates.ai](https://instagram.com/jayantcreates.ai) — daily Claude builds. This is an original breakdown of publicly-shared ideas; all credit for the five-archetype framing to Boris Cherny.*
+
+---
+
+Built by **[Ootto](https://ootto.ai)** - the 24/7 AI operator for Instagram. It studies what is working in your niche, writes and renders the reels, posts them, and turns the comments into leads. [See it running](https://ootto.ai/content).
