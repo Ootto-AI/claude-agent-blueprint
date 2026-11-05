@@ -2,6 +2,8 @@
 
 **The business structure the creator of Claude Code says every company will run on — and how to build your own agent swarm.**
 
+[![Connect to Ootto](https://img.shields.io/badge/Connect%20to%20Ootto-E8835C?style=for-the-badge)](https://ootto.ai)
+
 Boris Cherny (creator of Claude Code) shared that the businesses winning the next decade won't be organized by job titles. They collapse into **five archetypes** — workflows, not roles — staffed by **humans + hundreds-to-thousands of Claude agents**. This repo is the practical, copy-paste version.
 
 > Source: Boris Cherny's public thread + talk on the five archetypes and "Claude everywhere." This is an independent, original breakdown — go watch/read the original for his exact words.
@@ -63,4 +65,6 @@ The content-growth version of exactly this (research → script → render → p
 
 ---
 
-Built by **[Ootto](https://ootto.ai)** - the 24/7 AI operator for Instagram. It studies what is working in your niche, writes and renders the reels, posts them, and turns the comments into leads. [See it running](https://ootto.ai/content).
+Built by **[Ootto](https://ootto.ai)** - the 24/7 AI operator for Instagram. It studies what is working in your niche, writes and renders the reels, posts them, and turns the comments into leads. [See it running](https://ootto.ai).
+
+**[Connect to Ootto →](https://ootto.ai)**
